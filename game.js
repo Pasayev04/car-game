@@ -49,17 +49,17 @@ var car = {
 
         if (bmw === "d") {
           car.driveToWork();
-          reWriteStats();
+          
         }
 
         if (bmw === "w") {
           car.driveAroundWorld();
-          reWriteStats();
+          
         }
 
         if (bmw === "t") {
           car.getTuneUp();
-          reWriteStats();
+          
         }
 
 };
